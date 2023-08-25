@@ -1,7 +1,8 @@
 # Simon Game FPGA (Verilog) - Basys3
 
-video speed up by 50%
 https://github.com/ISmillex/Simon-Game-FPGA/assets/72645646/149427c0-bcfc-4c9d-b239-14715d8ac0c0
+
+video speed up by 50%
 
 This repository contains the Verilog code for implementing the classic Simon Game on the Basys3 FPGA development board. The Simon Game is a memory game that tests and improves your memory and cognitive skills. The game involves a sequence of lights that the player needs to remember and replicate.
 
