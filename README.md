@@ -66,8 +66,8 @@ The Simon Game implemented in this project follows a sequence of steps to provid
 This project was developed by a team of dedicated individuals who contributed their time and expertise to create the Simon Game FPGA implementation for the Basys3 board. We'd like to recognize the following team members for their valuable contributions:
 
 - [Oruç Çakır](https://github.com/oruccakir)
-- [Osman Cesur]
-- [Ömer İlbilgi]
+- Osman Cesur
+- Ömer İlbilgi
 
 ## Usage
 
